@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library_encapsulation", "library_encapsulation\library_encapsulation.csproj", "{723956F8-789A-4E4C-B942-D397B8B5A3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723956F8-789A-4E4C-B942-D397B8B5A3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723956F8-789A-4E4C-B942-D397B8B5A3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723956F8-789A-4E4C-B942-D397B8B5A3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723956F8-789A-4E4C-B942-D397B8B5A3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {291A1124-3E62-49EA-A202-048CCCF47924}
+	EndGlobalSection
+EndGlobal
